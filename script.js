@@ -43,6 +43,11 @@ document.addEventListener("DOMContentLoaded", function () {
                 <p>Phone: +91 9999999999</p>
                 <p>Location: Balipatna,khordha</p>
             </div>
+            <div> <h3>School Logo</h3>
+                <div style="width: 80px; height: 80px; background: #444; display: flex; align-items: center; justify-content: center; border-radius: 5px;">
+                    LOGO
+                </div>
+</div>
 
         </div>
 
