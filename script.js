@@ -21,35 +21,44 @@ document.addEventListener("DOMContentLoaded", function () {
     /* FOOTER */
     const footer = `
     <footer>
-        <div class="footer-container">
+      <footer>
+    <div class="footer-container" style="display: flex; justify-content: space-between; gap: 30px; flex-wrap: wrap;">
 
-            <div class="footer-section">
+        <!-- About Section -->
+        <div class="footer-section" style="display: flex; align-items: flex-start; gap: 15px; max-width: 300px;">
+            
+            <!-- LOGO -->
+            <div style="width: 80px; height: 80px; background: #444; display: flex; align-items: center; justify-content: center; border-radius: 5px; flex-shrink: 0;">
+                LOGO
+            </div>
+
+            <!-- TEXT -->
+            <div>
                 <h3>About School</h3>
-                <div style="width: 80px; height: 80px; background: #444; display: flex; align-items: center; justify-content: center; border-radius: 5px;">
-                    LOGO
-                </div>
-
-                <p>ST.Xavier School,Balipatna,Khordha is committed to quality education and overall student development.</p>
+                <p>ST. Xavier School, Balipatna, Khordha is committed to quality education and overall student development.</p>
             </div>
+        </div>
 
-            <div class="footer-section">
-                <h3>Quick Links</h3>
-                <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li><a href="facility.html">Facilities</a></li>
-                    <li><a href="gallery.html">Gallery</a></li>
-                </ul>
-            </div>
+        <!-- Quick Links -->
+        <div class="footer-section">
+            <h3>Quick Links</h3>
+            <ul style="list-style: none; padding: 0;">
+                <li><a href="index.html">Home</a></li>
+                <li><a href="facility.html">Facilities</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+            </ul>
+        </div>
 
-            <div class="footer-section">
-                <h3>Contact</h3>
-                <p>Email: school@gmail.com</p>
-                <p>Phone: +91 9999999999</p>
-                <p>Location: Balipatna,khordha</p>
-            </div>
-           
+        <!-- Contact -->
+        <div class="footer-section">
+            <h3>Contact</h3>
+            <p>Email: school@gmail.com</p>
+            <p>Phone: +91 9999999999</p>
+            <p>Location: Balipatna, Khordha</p>
+        </div>
 
-        <div class="footer-bottom">
+    </div>
+<div class="footer-bottom">
             <p>© 2026 ST XAVIER HIGH SCHOOL | All Rights Reserved</p>
         </div>
     </footer>
