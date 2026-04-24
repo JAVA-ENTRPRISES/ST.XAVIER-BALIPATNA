@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     const footer = `
     <footer>
       <footer>
-    <div class="footer-container" style="display: flex; justify-content: space-between; gap: 30px; flex-wrap: wrap;">
+    <div class="footer-container" style="display: flex; justify-content: space-between; gap: 30px; flex-wrap: wrap;height:100px">
 
         <!-- About Section -->
         <div class="footer-section" style="display: flex; align-items: flex-start; gap: 15px; max-width: 200px;">
