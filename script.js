@@ -25,6 +25,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
             <div class="footer-section">
                 <h3>About School</h3>
+                <div style="width: 80px; height: 80px; background: #444; display: flex; align-items: center; justify-content: center; border-radius: 5px;">
+                    LOGO
+                </div>
+
                 <p>ST.Xavier School,Balipatna,Khordha is committed to quality education and overall student development.</p>
             </div>
 
@@ -43,17 +47,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <p>Phone: +91 9999999999</p>
                 <p>Location: Balipatna,khordha</p>
             </div>
-<<<<<<< HEAD
-            <div>                <h3>School Logo</h3>
-=======
-            <div> <h3>School Logo</h3>
->>>>>>> 698950075a4863f2078b1b2b5411360af431f602
-                <div style="width: 80px; height: 80px; background: #444; display: flex; align-items: center; justify-content: center; border-radius: 5px;">
-                    LOGO
-                </div>
-</div>
-
-        </div>
+           
 
         <div class="footer-bottom">
             <p>© 2026 ST XAVIER HIGH SCHOOL | All Rights Reserved</p>
