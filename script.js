@@ -6,6 +6,10 @@ document.addEventListener("DOMContentLoaded", function () {
     const header = `
     <header>
         <nav>
+                    <div style="width: 80px; height: 80px; background: #444; display: flex; align-items: center; justify-content: center; border-radius: 5px; flex-shrink: 0;">
+                LOGO
+            </div>
+
             <h2 class="logo-text">ST XAVIER HIGH SCHOOL,KHORDHA</h2>
             <ul>
                 <li><a href="index.html">Home</a></li>
