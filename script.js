@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <p>ST. Xavier School, Balipatna, Khordha is committed to quality education and overall student development.</p>
             </div>
         </div>
-
+ 
         <!-- Quick Links -->
         <div class="footer-section">
             <h3>Quick Links</h3>
