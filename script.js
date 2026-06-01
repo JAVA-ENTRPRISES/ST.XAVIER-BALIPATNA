@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
         </div>
 
     </div>
-<div class="footer-bottom">
+<div class="footer-bottom" style ="text-align:centre">
             <p>© 2026 ST XAVIER HIGH SCHOOL | All Rights Reserved</p>
         </div>
     </footer>
