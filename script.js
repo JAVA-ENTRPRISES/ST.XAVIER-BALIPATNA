@@ -56,8 +56,8 @@ document.addEventListener("DOMContentLoaded", function () {
         <!-- Contact -->
         <div class="footer-section">
             <h3>Contact</h3>
-            <p>Email: school@gmail.com</p>
-            <p>Phone: +91 9999999999</p>
+            <p>Email: xavierbalipatna@gmail.com</p>
+            <p>Phone: +91 9040211028</p>
             <p>Location: Balipatna, Khordha</p>
         </div>
 
