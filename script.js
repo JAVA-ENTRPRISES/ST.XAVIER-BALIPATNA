@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 <li><a href="index.html">Home</a></li>
                 <li><a href="facility.html">Facilities</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
-                <li><a href="mandatory.html">Mandatory</a></li>
+                <li><a href="mandatory.html">Mandatory Disclosure</a></li>
                 <li><a href="contact.html">Contact</a></li>
             </ul>
         </nav>
@@ -52,7 +52,9 @@ document.addEventListener("DOMContentLoaded", function () {
             <ul style="list-style: none; padding: 0;">
                 <li><a href="index.html">Home</a></li>
                 <li><a href="facility.html">Facilities</a></li>
+                 <li><a href="mandatory.html">Mandatory Disclosure</a></li>
                 <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="contact.html">Contact</a></li>
             </ul>
         </div>
 
